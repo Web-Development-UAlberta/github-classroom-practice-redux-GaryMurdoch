@@ -1,4 +1,5 @@
 hello, THis is a test
 
 this line is code 
-started working on new feature it is cool 
+fixed an issue
+finished
